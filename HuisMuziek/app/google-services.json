@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1098378301757",
+    "firebase_url": "https://huismuziek-f899f.firebaseio.com",
+    "project_id": "huismuziek-f899f",
+    "storage_bucket": "huismuziek-f899f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098378301757:android:d3c1ef0ebe5755d3",
+        "android_client_info": {
+          "package_name": "nl.huisklassiek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098378301757-ncqe6imtrle1b7uh1rirdvh3g8tg9ipi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwdppOiHlhBqF4z4OUih4Em6tdTNXt2MM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
